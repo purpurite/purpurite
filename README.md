@@ -104,11 +104,11 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | yellowBright3 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright3.png) | `#997A3D` | `40°, 60%, 60%`   |     |
 | yellowBright2 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright2.png) | `#665229` | `40°, 60%, 40%`   |     |
 | yellowBright1 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright1.png) | `#332914` | `40°, 60%, 20%`   |     |
-| yellow5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow5.png)                                                                 | `#FFDD99` | `40°, 40%, 100%`  |     |
-| yellow4       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow4.png)                                                                 | `#CCB17A` | `40°, 40%, 80%`   |     |
-| yellow3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow3.png)                                                                 | `#99855C` | `40°, 40%, 60%`   |     |
-| yellow2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow2.png)                                                                 | `#66583D` | `40°, 40%, 40%`   |     |
-| yellow1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow1.png)                                                                 | `#332C1F` | `40°, 40%, 20%`   |     |
+| yellow5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow5.png)       | `#FFDD99` | `40°, 40%, 100%`  |     |
+| yellow4       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow4.png)       | `#CCB17A` | `40°, 40%, 80%`   |     |
+| yellow3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow3.png)       | `#99855C` | `40°, 40%, 60%`   |     |
+| yellow2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow2.png)       | `#66583D` | `40°, 40%, 40%`   |     |
+| yellow1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow1.png)       | `#332C1F` | `40°, 40%, 20%`   |     |
 | green5        |                                                                  |           | `120°, 40%, 100%` |     |
 | green4        |                                                                  |           | `120°, 40%, 80%`  |     |
 | green3        |                                                                  |           | `120°, 40%, 60%`  |     |
