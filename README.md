@@ -99,11 +99,11 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | orange3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange3.png)       | `#99705C` | `20°, 40%, 60%`   |     |
 | orange2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange2.png)       | `#664B3D` | `20°, 40%, 40%`   |     |
 | orange1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange1.png)       | `#33251F` | `20°, 40%, 20%`   |     |
-| yellowGray5   |                                                                  |           | `40°, 60%, 100%`  |     |
-| yellowGray4   |                                                                  |           | `40°, 60%, 80%`   |     |
-| yellowGray3   |                                                                  |           | `40°, 60%, 60%`   |     |
-| yellowGray2   |                                                                  |           | `40°, 60%, 40%`   |     |
-| yellowGray1   |                                                                  |           | `40°, 60%, 20%`   |     |
+| yellowBright5 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright5.png) | `#FFCC66` | `40°, 60%, 100%`  |     |
+| yellowBright4 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright4.png) | `#CCA352` | `40°, 60%, 80%`   |     |
+| yellowBright3 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright3.png) | `#997A3D` | `40°, 60%, 60%`   |     |
+| yellowBright2 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright2.png) | `#665229` | `40°, 60%, 40%`   |     |
+| yellowBright1 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright1.png) | `#332914` | `40°, 60%, 20%`   |     |
 | yellow5       |                                                                  |           | `40°, 40%, 100%`  |     |
 | yellow4       |                                                                  |           | `40°, 40%, 80%`   |     |
 | yellow3       |                                                                  |           | `40°, 40%, 60%`   |     |
