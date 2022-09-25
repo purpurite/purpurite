@@ -94,11 +94,11 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | orangeBright3 | ![](https://moonlitpurple.ehan.dev/colorBoxes/orangeBright3.png) | `#995C3D` | `20°, 60%, 60%`   |     |
 | orangeBright2 | ![](https://moonlitpurple.ehan.dev/colorBoxes/orangeBright2.png) | `#663D29` | `20°, 60%, 40%`   |     |
 | orangeBright1 | ![](https://moonlitpurple.ehan.dev/colorBoxes/orangeBright1.png) | `#331F14` | `20°, 60%, 20%`   |     |
-| orange5       |                                                                  | `#FFBB99` | `20°, 40%, 100%`  |     |
-| orange4       |                                                                  |           | `20°, 40%, 80%`   |     |
-| orange3       |                                                                  |           | `20°, 40%, 60%`   |     |
-| orange2       |                                                                  |           | `20°, 40%, 40%`   |     |
-| orange1       |                                                                  |           | `20°, 40%, 20%`   |     |
+| orange5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange5.png)                                                                 | `#FFBB99` | `20°, 40%, 100%`  |     |
+| orange4       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange4.png)                                                                 | `#CC967A` | `20°, 40%, 80%`   |     |
+| orange3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange3.png)                                                                 | `#99705C` | `20°, 40%, 60%`   |     |
+| orange2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange2.png)                                                                 | `#664B3D` | `20°, 40%, 40%`   |     |
+| orange1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange1.png)                                                                 | `#33251F` | `20°, 40%, 20%`   |     |
 | yellowGray5   |                                                                  |           | `40°, 60%, 100%`  |     |
 | yellowGray4   |                                                                  |           | `40°, 60%, 80%`   |     |
 | yellowGray3   |                                                                  |           | `40°, 60%, 60%`   |     |
