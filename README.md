@@ -109,11 +109,11 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | yellow3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow3.png)       | `#99855C` | `40°, 40%, 60%`   |     |
 | yellow2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow2.png)       | `#66583D` | `40°, 40%, 40%`   |     |
 | yellow1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow1.png)       | `#332C1F` | `40°, 40%, 20%`   |     |
-| green5        |                                                                  | `#99FF99`          | `120°, 40%, 100%` |     |
-| green4        |                                                                  | `#7ACC7A`          | `120°, 40%, 80%`  |     |
-| green3        |                                                                  | `#5C995C`          | `120°, 40%, 60%`  |     |
-| green2        |                                                                  | `#3D663D`          | `120°, 40%, 40%`  |     |
-| green1        |                                                                  | `#1F331F`          | `120°, 40%, 20%`  |     |
+| green5        |                                                                  | `#99FF99` | `120°, 40%, 100%` |     |
+| green4        |                                                                  | `#7ACC7A` | `120°, 40%, 80%`  |     |
+| green3        |                                                                  | `#5C995C` | `120°, 40%, 60%`  |     |
+| green2        |                                                                  | `#3D663D` | `120°, 40%, 40%`  |     |
+| green1        |                                                                  | `#1F331F` | `120°, 40%, 20%`  |     |
 | greenGray5    |                                                                  |           | `120°, 20%, 100%` |     |
 | greenGray4    |                                                                  |           | `120°, 20%, 80%`  |     |
 | greenGray3    |                                                                  |           | `120°, 20%, 60%`  |     |
