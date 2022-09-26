@@ -58,7 +58,7 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | blue1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue1.png)         | background, ansiBlack,                       | `#1F2533` | `220°, 40%, 20%`  |     |
 | blueGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray5.png)     | Foreground, ansiWhite,                       | `#CCDDFF` | `220°, 20%, 100%` |     |
 | blue2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue2.png)         | Selection, ansiBrightBlack & ansiBrightWhite | `#3D4B66` | `220°, 40%, 40%`  |     |
-| redBright5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/redBright5.png)    | Red, ansiRed & ansiBrightRed,                |           |                  |     |
+| redBright5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/redBright5.png)    | Red, ansiRed & ansiBrightRed,                | `#FF6666` | `0°, 60%, 100%`   |     |
 | orangeBright5 | ![](https://moonlitpurple.ehan.dev/colorBoxes/orangeBright5.png) | Orange, ansiYellow,                          |           |                  |     |
 | yellowBrigh5  | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright5.png) | Yellow, ansiBrightYellow,                    |           |                  |     |
 | green5        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green5.png)        | Green, ansiGreen,                            |           |                  |     |
