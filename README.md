@@ -18,8 +18,8 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 
 | Name    |     | Hex | HSB/HSV | RGB |
 | ------- | --- | --- | ------- | --- |
-| purple9 |     |     |         |     |
-| blue9   |     |     |         |     |
+| purple5 |     |     |         |     |
+| teal5   |     |     |         |     |
 | black   |     |     |         |     |
 | gray 4  |     |     |         |     |
 | gray 3  |     |     |         |     |
@@ -36,22 +36,37 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 
 ### UI Palette
 
-| Name    | Role      |     | Hex | HSB/HSV | RGB |
-| ------- | --------- | --- | --- | ------- | --- |
-| purple  | Primary   |     |     |         |     |
-| blue    | Secondary |     |     |         |     |
-| shadow  | Shadow    |     |     |         |     |
-| black   | Black     |     |     |         |     |
-| dark    | Grey      |     |     |         |     |
-| gray    |           |     |     |         |     |
-| light   |           |     |     |         |     |
-| white   |           |     |     |         |     |
-| red     |           |     |     |         |     |
-| orange  |           |     |     |         |     |
-| yellow  |           |     |     |         |     |
-| green   |           |     |     |         |     |
-| cyan    |           |     |     |         |     |
-| magenta |           |     |     |         |     |
+| Name      | Role        |     | Hex | HSB/HSV | RGB |
+| --------- | ----------- | --- | --- | ------- | --- |
+| blue1     | Background, |     |     |         |     |
+| blueGray5 | Foreground, |     |     |         |     |
+| blue2     | Selection,  |     |     |         |     |
+| red       | Red,        |     |     |         |     |
+| orange    | Orange,     |     |     |         |     |
+| yellow    | Yellow,     |     |     |         |     |
+| green     | Green,      |     |     |         |     |
+| teal5     | Teal,       |     |     |         |     |
+| blue5     | Blue,       |
+| cyan      | Cyan,       |     |     |         |     |
+| purple5   | Purple,     |     |     |         |     |
+| magenta   | Pink,       |     |     |         |     |
+
+### Syntax Highlighting Palette
+
+| Name          | 🎨                                                               | Roles                                        | Hex       | HSB/HSV          | RGB |
+| ------------- | ---------------------------------------------------------------- | -------------------------------------------- | --------- | ---------------- | --- |
+| blue1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue1.png)         | background, ansiBlack,                       | `#1F2533` | `220°, 40%, 20%`  |     |
+| blueGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray5.png)     | Foreground, ansiWhite,                       | `#CCDDFF` | `220°, 20%, 100%` |     |
+| blue2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue2.png)         | Selection, ansiBrightBlack & ansiBrightWhite | `#3D4B66` | `220°, 40%, 40%`  |     |
+| redBright5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/redBright5.png)    | Red, ansiRed & ansiBrightRed,                |           |                  |     |
+| orangeBright5 | ![](https://moonlitpurple.ehan.dev/colorBoxes/orangeBright5.png) | Orange, ansiYellow,                          |           |                  |     |
+| yellowBrigh5  | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright5.png) | Yellow, ansiBrightYellow,                    |           |                  |     |
+| green5        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green5.png)        | Green, ansiGreen,                            |           |                  |     |
+| teal5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal5.png)         | Teal, ansiBrightGreen,                       |           |                  |     |
+| blue5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue5.png)         | Blue, ansiBlue & ansiBrightBlue,             | `#99BBFF` | `220°, 40%, 100%` |     |
+| cyan5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyan5.png)         | Cyan, ansiCyan & ansiBrightCyan,             |           |                  |     |
+| purple5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple5.png)       | Purple, ansiBrightMagenta,                   |           |                  |     |
+| pink5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/pink5.png)         | Pink, ansiMagenta,                           |           |                  |     |
 
 ## The Colorscheme
 
@@ -59,26 +74,6 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 
 | Label         | 🎨                                                               | Hex       | HSB/HSV           | RGB |
 | ------------- | ---------------------------------------------------------------- | --------- | ----------------- | --- |
-| purple5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple5.png)       | `#9999FF` | `240°, 40%, 100%` |     |
-| purple4       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple4.png)       | `#7A7ACC` | `240°, 40%, 80%`  |     |
-| purple3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple3.png)       | `#5C5C99` | `240°, 40%, 60%`  |     |
-| purple2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple2.png)       | `#3D3D66` | `240°, 40%, 40%`  |     |
-| purple1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple1.png)       | `#1F1F33` | `240°, 40%, 20%`  |     |
-| purpleGray5   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray5.png)   | `#CCCCFF` | `240°, 20%, 100%` |     |
-| purpleGray4   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray4.png)   | `#A3A3CC` | `240°, 20%, 80%`  |     |
-| purpleGray3   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray3.png)   | `#7A7A99` | `240°, 20%, 60%`  |     |
-| purpleGray2   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray2.png)   | `#525266` | `240°, 20%, 40%`  |     |
-| purpleGray1   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray1.png)   | `#292933` | `240°, 20%, 20%`  |     |
-| blue5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue5.png)         | `#99BBFF` | `220°, 40%, 100%` |     |
-| blue4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue4.png)         | `#7A96CC` | `220°, 40%, 80%`  |     |
-| blue3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue3.png)         | `#5C7099` | `220°, 40%, 60%`  |     |
-| blue2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue2.png)         | `#3D4B66` | `220°, 40%, 40%`  |     |
-| blue1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue1.png)         | `#1F2533` | `220°, 40%, 20%`  |     |
-| blueGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray5.png)     | `#CCDDFF` | `220°, 20%, 100%` |     |
-| blueGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray4.png)     | `#A3B1CC` | `220°, 20%, 80%`  |     |
-| blueGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray3.png)     | `#7A8599` | `220°, 20%, 60%`  |     |
-| blueGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray2.png)     | `#525866` | `220°, 20%, 40%`  |     |
-| blueGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray1.png)     | `#292C33` | `220°, 20%, 20%`  |     |
 | redBright5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/redBright5.png)    | `#FF6666` | `0°, 60%, 100%`   |     |
 | redBright4    | ![](https://moonlitpurple.ehan.dev/colorBoxes/redBright4.png)    | `#CC5252` | `0°, 60%, 80%`    |     |
 | redBright3    | ![](https://moonlitpurple.ehan.dev/colorBoxes/redBright3.png)    | `#993D3D` | `0°, 60%, 60%`    |     |
@@ -139,6 +134,26 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | cyanGray3     |                                                                  |           | `200°, 20%, 60%`  |     |
 | cyanGray2     |                                                                  |           | `200°, 20%, 40%`  |     |
 | cyanGray1     |                                                                  |           | `200°, 20%, 20%`  |     |
+| blue5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue5.png)         | `#99BBFF` | `220°, 40%, 100%` |     |
+| blue4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue4.png)         | `#7A96CC` | `220°, 40%, 80%`  |     |
+| blue3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue3.png)         | `#5C7099` | `220°, 40%, 60%`  |     |
+| blue2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue2.png)         | `#3D4B66` | `220°, 40%, 40%`  |     |
+| blue1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue1.png)         | `#1F2533` | `220°, 40%, 20%`  |     |
+| blueGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray5.png)     | `#CCDDFF` | `220°, 20%, 100%` |     |
+| blueGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray4.png)     | `#A3B1CC` | `220°, 20%, 80%`  |     |
+| blueGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray3.png)     | `#7A8599` | `220°, 20%, 60%`  |     |
+| blueGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray2.png)     | `#525866` | `220°, 20%, 40%`  |     |
+| blueGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray1.png)     | `#292C33` | `220°, 20%, 20%`  |     |
+| purple5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple5.png)       | `#9999FF` | `240°, 40%, 100%` |     |
+| purple4       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple4.png)       | `#7A7ACC` | `240°, 40%, 80%`  |     |
+| purple3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple3.png)       | `#5C5C99` | `240°, 40%, 60%`  |     |
+| purple2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple2.png)       | `#3D3D66` | `240°, 40%, 40%`  |     |
+| purple1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple1.png)       | `#1F1F33` | `240°, 40%, 20%`  |     |
+| purpleGray5   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray5.png)   | `#CCCCFF` | `240°, 20%, 100%` |     |
+| purpleGray4   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray4.png)   | `#A3A3CC` | `240°, 20%, 80%`  |     |
+| purpleGray3   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray3.png)   | `#7A7A99` | `240°, 20%, 60%`  |     |
+| purpleGray2   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray2.png)   | `#525266` | `240°, 20%, 40%`  |     |
+| purpleGray1   | ![](https://moonlitpurple.ehan.dev/colorBoxes/purpleGray1.png)   | `#292933` | `240°, 20%, 20%`  |     |
 | magenta5      |                                                                  |           | `280°, 40%, 100%` |     |
 | magenta4      |                                                                  |           | `280°, 40%, 80%`  |     |
 | magenta3      |                                                                  |           | `280°, 40%, 60%`  |     |
