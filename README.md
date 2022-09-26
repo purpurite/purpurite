@@ -124,7 +124,7 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | teal3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal3.png)         | `#5C9985` | `160°, 40%, 60%`  |     |
 | teal2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal2.png)         | `#3D6658` | `160°, 40%, 40%`  |     |
 | teal1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal1.png)         | `#1F332C` | `160°, 40%, 20%`  |     |
-| tealGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray5.png)     | `#CCFFEE`          | `160°, 20%, 100%` |     |
+| tealGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray5.png)     | `#CCFFEE` | `160°, 20%, 100%` |     |
 | tealGray4     |                                                                  |           | `160°, 20%, 80%`  |     |
 | tealGray3     |                                                                  |           | `160°, 20%, 60%`  |     |
 | tealGray2     |                                                                  |           | `160°, 20%, 40%`  |     |
