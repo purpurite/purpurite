@@ -119,12 +119,12 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | greenGray3    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray3.png)    | `#7A997A` | `120°, 20%, 60%`  |     |
 | greenGray2    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray2.png)    | `#526652` | `120°, 20%, 40%`  |     |
 | greenGray1    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray1.png)    | `#293329` | `120°, 20%, 20%`  |     |
-| teal5         |                                                                  | `#99FFDD` | `160°, 40%, 100%` |     |
-| teal4         |                                                                  | `#7ACCB1` | `160°, 40%, 80%`  |     |
-| teal3         |                                                                  | `#5C9985` | `160°, 40%, 60%`  |     |
-| teal2         |                                                                  | `#3D6658` | `160°, 40%, 40%`  |     |
-| teal1         |                                                                  | `#1F332C` | `160°, 40%, 20%`  |     |
-| tealGray5     |                                                                  |           | `160°, 20%, 100%` |     |
+| teal5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal5.png)         | `#99FFDD` | `160°, 40%, 100%` |     |
+| teal4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal4.png)         | `#7ACCB1` | `160°, 40%, 80%`  |     |
+| teal3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal3.png)         | `#5C9985` | `160°, 40%, 60%`  |     |
+| teal2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal2.png)         | `#3D6658` | `160°, 40%, 40%`  |     |
+| teal1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal1.png)         | `#1F332C` | `160°, 40%, 20%`  |     |
+| tealGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray5.png)     |           | `160°, 20%, 100%` |     |
 | tealGray4     |                                                                  |           | `160°, 20%, 80%`  |     |
 | tealGray3     |                                                                  |           | `160°, 20%, 60%`  |     |
 | tealGray2     |                                                                  |           | `160°, 20%, 40%`  |     |
