@@ -114,11 +114,11 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | green3        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green3.png)        | `#5C995C` | `120°, 40%, 60%`  |     |
 | green2        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green2.png)        | `#3D663D` | `120°, 40%, 40%`  |     |
 | green1        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green1.png)        | `#1F331F` | `120°, 40%, 20%`  |     |
-| greenGray5    |                                                                  | `#CCFFCC`          | `120°, 20%, 100%` |     |
-| greenGray4    |                                                                  | `#A3CCA3`          | `120°, 20%, 80%`  |     |
-| greenGray3    |                                                                  | `#7A997A`          | `120°, 20%, 60%`  |     |
-| greenGray2    |                                                                  | `#526652`          | `120°, 20%, 40%`  |     |
-| greenGray1    |                                                                  | `#293329`          | `120°, 20%, 20%`  |     |
+| greenGray5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray5.png)                                                                 | `#CCFFCC`          | `120°, 20%, 100%` |     |
+| greenGray4    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray4.png)                                                                 | `#A3CCA3`          | `120°, 20%, 80%`  |     |
+| greenGray3    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray3.png)                                                                 | `#7A997A`          | `120°, 20%, 60%`  |     |
+| greenGray2    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray2.png)                                                                 | `#526652`          | `120°, 20%, 40%`  |     |
+| greenGray1    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray1.png)                                                                 | `#293329`          | `120°, 20%, 20%`  |     |
 | teal5         |                                                                  |           | `160°, 40%, 100%` |     |
 | teal4         |                                                                  |           | `160°, 40%, 80%`  |     |
 | teal3         |                                                                  |           | `160°, 40%, 60%`  |     |
