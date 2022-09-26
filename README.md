@@ -16,7 +16,7 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 
 ### Base Palette
 
-| Name    |     | Hex | HSB/HSV | RGB |
+| Name    |     | Hex | HSB | RGB |
 | ------- | --- | --- | ------- | --- |
 | purple5 |     |     |         |     |
 | teal5   |     |     |         |     |
@@ -36,7 +36,7 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 
 ### UI Palette
 
-| Name      | Role        |     | Hex | HSB/HSV | RGB |
+| Name      | Role        |     | Hex | HSB | RGB |
 | --------- | ----------- | --- | --- | ------- | --- |
 | blue1     | Background, |     |     |         |     |
 | blueGray5 | Foreground, |     |     |         |     |
@@ -53,7 +53,7 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 
 ### Syntax Highlighting Palette
 
-| Name          | 🎨                                                               | Roles                                        | Hex       | HSB/HSV          | RGB |
+| Name          | 🎨                                                               | Roles                                        | Hex       | HSB          | RGB |
 | ------------- | ---------------------------------------------------------------- | -------------------------------------------- | --------- | ---------------- | --- |
 | blue1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue1.png)         | background, ansiBlack,                       | `#1F2533` | `220°, 40%, 20%`  |     |
 | blueGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray5.png)     | Foreground, ansiWhite,                       | `#CCDDFF` | `220°, 20%, 100%` |     |
@@ -72,7 +72,7 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 
 > The colorscheme is a huge list of colors that the palettes use.
 
-| Label         | 🎨                                                               | Hex       | HSB/HSV           | RGB |
+| Label         | 🎨                                                               | Hex       | HSB           | RGB |
 | ------------- | ---------------------------------------------------------------- | --------- | ----------------- | --- |
 | redBright5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/redBright5.png)    | `#FF6666` | `0°, 60%, 100%`   |     |
 | redBright4    | ![](https://moonlitpurple.ehan.dev/colorBoxes/redBright4.png)    | `#CC5252` | `0°, 60%, 80%`    |     |
