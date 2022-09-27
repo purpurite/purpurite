@@ -91,11 +91,11 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | orange3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange3.png)       | `#99705C` | `20°, 40%, 60%`   | `153, 112, 92`  |
 | orange2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange2.png)       | `#664B3D` | `20°, 40%, 40%`   | `102, 75, 61`   |
 | orange1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/orange1.png)       | `#33251F` | `20°, 40%, 20%`   | `51, 37, 31`    |
-| yellowBright5 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright5.png) | `#FFCC66` | `40°, 60%, 100%`  |                 |
-| yellowBright4 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright4.png) | `#CCA352` | `40°, 60%, 80%`   |                 |
-| yellowBright3 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright3.png) | `#997A3D` | `40°, 60%, 60%`   |                 |
-| yellowBright2 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright2.png) | `#665229` | `40°, 60%, 40%`   |                 |
-| yellowBright1 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright1.png) | `#332914` | `40°, 60%, 20%`   |                 |
+| yellowBright5 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright5.png) | `#FFCC66` | `40°, 60%, 100%`  | `255, 204, 102` |
+| yellowBright4 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright4.png) | `#CCA352` | `40°, 60%, 80%`   | `204, 163, 82`  |
+| yellowBright3 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright3.png) | `#997A3D` | `40°, 60%, 60%`   | `153, 122, 61`  |
+| yellowBright2 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright2.png) | `#665229` | `40°, 60%, 40%`   | `102, 82, 41`   |
+| yellowBright1 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright1.png) | `#332914` | `40°, 60%, 20%`   | `51, 41, 20`    |
 | yellow5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow5.png)       | `#FFDD99` | `40°, 40%, 100%`  |                 |
 | yellow4       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow4.png)       | `#CCB17A` | `40°, 40%, 80%`   |                 |
 | yellow3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow3.png)       | `#99855C` | `40°, 40%, 60%`   |                 |
