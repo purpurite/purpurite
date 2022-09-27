@@ -63,7 +63,7 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | yellowBrigh5  | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright5.png) | `yellow` & `warning`, <br /> `ansiBrightYellow`, `deprecated`,                    | `#FFCC66` | `40°, 60%, 100%`  |     |
 | green5        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green5.png)        | `green` & `success`, <br /> `ansiGreen`, <br /> <br />                            | `#99FF99` | `120°, 40%, 100%` |     |
 | teal5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal5.png)         | `teal` & `secondary`, <br /> `ansiBrightGreen`, <br /> <br />                     | `#99FFDD` | `160°, 40%, 100%` |     |
-| cyan5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyan5.png)         | `cyan`, <br /> `ansiCyan` & `ansiBrightCyan`, <br /> <br />                       |           |                   |     |
+| cyan5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyan5.png)         | `cyan`, <br /> `ansiCyan` & `ansiBrightCyan`, <br /> <br />                       | `#99DDFF` | `200°, 40%, 100%` |     |
 | blue5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue5.png)         | `blue`, <br /> `ansiBlue` & `ansiBrightBlue`, <br /> <br />                       | `#99BBFF` | `220°, 40%, 100%` |     |
 | purple5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple5.png)       | `purple` & `primary`, <br /> `ansiBrightMagenta`, <br /> <br />                   | `#9999FF` | `240°, 40%, 100%` |     |
 | pink5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/pink5.png)         | `pink`, <br /> `ansiMagenta`, <br /> <br />                                       | `#FF99DD` | `320°, 40%, 100%` |     |
