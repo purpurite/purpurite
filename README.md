@@ -96,16 +96,16 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | yellowBright3 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright3.png) | `#997A3D` | `40°, 60%, 60%`   | `153, 122, 61`  |
 | yellowBright2 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright2.png) | `#665229` | `40°, 60%, 40%`   | `102, 82, 41`   |
 | yellowBright1 | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellowBright1.png) | `#332914` | `40°, 60%, 20%`   | `51, 41, 20`    |
-| yellow5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow5.png)       | `#FFDD99` | `40°, 40%, 100%`  | `255, 221, 153`                |
-| yellow4       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow4.png)       | `#CCB17A` | `40°, 40%, 80%`   | `204, 177, 122`                |
-| yellow3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow3.png)       | `#99855C` | `40°, 40%, 60%`   | `153, 133, 92`                |
-| yellow2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow2.png)       | `#66583D` | `40°, 40%, 40%`   | `102, 88, 61`                |
-| yellow1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow1.png)       | `#332C1F` | `40°, 40%, 20%`   | `51, 44, 31`                |
-| green5        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green5.png)        | `#99FF99` | `120°, 40%, 100%` | `153, 255, 153`                |
-| green4        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green4.png)        | `#7ACC7A` | `120°, 40%, 80%`  |                 |
-| green3        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green3.png)        | `#5C995C` | `120°, 40%, 60%`  |                 |
-| green2        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green2.png)        | `#3D663D` | `120°, 40%, 40%`  |                 |
-| green1        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green1.png)        | `#1F331F` | `120°, 40%, 20%`  |                 |
+| yellow5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow5.png)       | `#FFDD99` | `40°, 40%, 100%`  | `255, 221, 153` |
+| yellow4       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow4.png)       | `#CCB17A` | `40°, 40%, 80%`   | `204, 177, 122` |
+| yellow3       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow3.png)       | `#99855C` | `40°, 40%, 60%`   | `153, 133, 92`  |
+| yellow2       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow2.png)       | `#66583D` | `40°, 40%, 40%`   | `102, 88, 61`   |
+| yellow1       | ![](https://moonlitpurple.ehan.dev/colorBoxes/yellow1.png)       | `#332C1F` | `40°, 40%, 20%`   | `51, 44, 31`    |
+| green5        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green5.png)        | `#99FF99` | `120°, 40%, 100%` | `153, 255, 153` |
+| green4        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green4.png)        | `#7ACC7A` | `120°, 40%, 80%`  | `122, 204, 122` |
+| green3        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green3.png)        | `#5C995C` | `120°, 40%, 60%`  | `92, 153, 92`   |
+| green2        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green2.png)        | `#3D663D` | `120°, 40%, 40%`  | `61, 102, 61`   |
+| green1        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green1.png)        | `#1F331F` | `120°, 40%, 20%`  | `31, 51, 31`    |
 | greenGray5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray5.png)    | `#CCFFCC` | `120°, 20%, 100%` |                 |
 | greenGray4    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray4.png)    | `#A3CCA3` | `120°, 20%, 80%`  |                 |
 | greenGray3    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray3.png)    | `#7A997A` | `120°, 20%, 60%`  |                 |
