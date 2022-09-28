@@ -110,9 +110,9 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | greenGray4    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray4.png)    | `#A3CCA3` | `120°, 20%, 80%`  | `163, 204, 163`                |
 | greenGray3    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray3.png)    | `#7A997A` | `120°, 20%, 60%`  | `122, 153, 122`                |
 | greenGray2    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray2.png)    | `#526652` | `120°, 20%, 40%`  | `82, 102, 82`                |
-| greenGray1    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray1.png)    | `#293329` | `120°, 20%, 20%`  |                 |
-| teal5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal5.png)         | `#99FFDD` | `160°, 40%, 100%` |                 |
-| teal4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal4.png)         | `#7ACCB1` | `160°, 40%, 80%`  |                 |
+| greenGray1    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray1.png)    | `#293329` | `120°, 20%, 20%`  | `41, 51, 41`                |
+| teal5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal5.png)         | `#99FFDD` | `160°, 40%, 100%` | `153, 255, 221`                |
+| teal4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal4.png)         | `#7ACCB1` | `160°, 40%, 80%`  | `122, 204, 177`                |
 | teal3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal3.png)         | `#5C9985` | `160°, 40%, 60%`  |                 |
 | teal2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal2.png)         | `#3D6658` | `160°, 40%, 40%`  |                 |
 | teal1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal1.png)         | `#1F332C` | `160°, 40%, 20%`  |                 |
