@@ -106,10 +106,10 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | green3        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green3.png)        | `#5C995C` | `120°, 40%, 60%`  | `92, 153, 92`   |
 | green2        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green2.png)        | `#3D663D` | `120°, 40%, 40%`  | `61, 102, 61`   |
 | green1        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green1.png)        | `#1F331F` | `120°, 40%, 20%`  | `31, 51, 31`    |
-| greenGray5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray5.png)    | `#CCFFCC` | `120°, 20%, 100%` |                 |
-| greenGray4    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray4.png)    | `#A3CCA3` | `120°, 20%, 80%`  |                 |
-| greenGray3    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray3.png)    | `#7A997A` | `120°, 20%, 60%`  |                 |
-| greenGray2    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray2.png)    | `#526652` | `120°, 20%, 40%`  |                 |
+| greenGray5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray5.png)    | `#CCFFCC` | `120°, 20%, 100%` | `204, 255, 204`                |
+| greenGray4    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray4.png)    | `#A3CCA3` | `120°, 20%, 80%`  | `163, 204, 163`                |
+| greenGray3    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray3.png)    | `#7A997A` | `120°, 20%, 60%`  | `122, 153, 122`                |
+| greenGray2    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray2.png)    | `#526652` | `120°, 20%, 40%`  | `82, 102, 82`                |
 | greenGray1    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray1.png)    | `#293329` | `120°, 20%, 20%`  |                 |
 | teal5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal5.png)         | `#99FFDD` | `160°, 40%, 100%` |                 |
 | teal4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal4.png)         | `#7ACCB1` | `160°, 40%, 80%`  |                 |
