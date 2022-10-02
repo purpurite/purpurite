@@ -155,9 +155,9 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | pink4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/pink4.png)         | `#CC7AB1` | `320°, 40%, 80%`  | `204, 122, 177` |
 | pink3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/pink3.png)         | `#995C85` | `320°, 40%, 60%`  | `153, 92, 133`  |
 | pink2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/pink2.png)         | `#663D58` | `320°, 40%, 40%`  | `102, 61, 88`   |
-| pink1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/pink1.png)         | `#331F2C` | `320°, 40%, 20%`  | `51, 31, 44`               |
-| pinkGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray5.png)     | `#FFCCEE` | `320°, 20%, 100%` | `255, 204, 238`                |
-| pinkGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray4.png)     | `#CCA3BE` | `320°, 20%, 80%`  | `204, 163, 190`                |
-| pinkGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray3.png)     | `#997A8F` | `320°, 20%, 60%`  | `153, 122, 143`                |
-| pinkGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray2.png)     | `#665260` | `320°, 20%, 40%`  | `102, 82, 96`                |
-| pinkGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray1.png)     | `#332930` | `320°, 20%, 20%`  | `51, 41, 48`                |
+| pink1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/pink1.png)         | `#331F2C` | `320°, 40%, 20%`  | `51, 31, 44`    |
+| pinkGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray5.png)     | `#FFCCEE` | `320°, 20%, 100%` | `255, 204, 238` |
+| pinkGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray4.png)     | `#CCA3BE` | `320°, 20%, 80%`  | `204, 163, 190` |
+| pinkGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray3.png)     | `#997A8F` | `320°, 20%, 60%`  | `153, 122, 143` |
+| pinkGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray2.png)     | `#665260` | `320°, 20%, 40%`  | `102, 82, 96`   |
+| pinkGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray1.png)     | `#332930` | `320°, 20%, 20%`  | `51, 41, 48`    |
