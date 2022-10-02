@@ -160,4 +160,4 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | pinkGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray4.png)     | `#CCA3BE` | `320°, 20%, 80%`  | `204, 163, 190`                |
 | pinkGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray3.png)     | `#997A8F` | `320°, 20%, 60%`  | `153, 122, 143`                |
 | pinkGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray2.png)     | `#665260` | `320°, 20%, 40%`  | `102, 82, 96`                |
-| pinkGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray1.png)     | `#332930` | `320°, 20%, 20%`  |                 |
+| pinkGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/pinkGray1.png)     | `#332930` | `320°, 20%, 20%`  | `51, 41, 48`                |
