@@ -126,11 +126,11 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | cyan3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyan3.png)         | `#5C8599` | `200°, 40%, 60%`  | `92, 133, 153`                |
 | cyan2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyan2.png)         | `#3D5866` | `200°, 40%, 40%`  | `61, 88, 102`                |
 | cyan1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyan1.png)         | `#1F2C33` | `200°, 40%, 20%`  | `31, 44, 51`                |
-| cyanGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray5.png)     | `#CCEEFF` | `200°, 20%, 100%` |                 |
-| cyanGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray4.png)     | `#A3BECC` | `200°, 20%, 80%`  |                 |
-| cyanGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray3.png)     | `#7A8F99` | `200°, 20%, 60%`  |                 |
-| cyanGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray2.png)     | `#525F66` | `200°, 20%, 40%`  |                 |
-| cyanGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray1.png)     | `#292F33` | `200°, 20%, 20%`  |                 |
+| cyanGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray5.png)     | `#CCEEFF` | `200°, 20%, 100%` | `204, 238, 255`                |
+| cyanGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray4.png)     | `#A3BECC` | `200°, 20%, 80%`  | `163, 190, 204`                |
+| cyanGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray3.png)     | `#7A8F99` | `200°, 20%, 60%`  | `122, 143, 153`                |
+| cyanGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray2.png)     | `#525F66` | `200°, 20%, 40%`  | `82, 95, 102`                |
+| cyanGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyanGray1.png)     | `#292F33` | `200°, 20%, 20%`  | `41, 47, 51`                |
 | blue5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue5.png)         | `#99BBFF` | `220°, 40%, 100%` |                 |
 | blue4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue4.png)         | `#7A96CC` | `220°, 40%, 80%`  |                 |
 | blue3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue3.png)         | `#5C7099` | `220°, 40%, 60%`  |                 |
