@@ -106,21 +106,21 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | green3        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green3.png)        | `#5C995C` | `120°, 40%, 60%`  | `92, 153, 92`   |
 | green2        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green2.png)        | `#3D663D` | `120°, 40%, 40%`  | `61, 102, 61`   |
 | green1        | ![](https://moonlitpurple.ehan.dev/colorBoxes/green1.png)        | `#1F331F` | `120°, 40%, 20%`  | `31, 51, 31`    |
-| greenGray5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray5.png)    | `#CCFFCC` | `120°, 20%, 100%` | `204, 255, 204`                |
-| greenGray4    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray4.png)    | `#A3CCA3` | `120°, 20%, 80%`  | `163, 204, 163`                |
-| greenGray3    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray3.png)    | `#7A997A` | `120°, 20%, 60%`  | `122, 153, 122`                |
-| greenGray2    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray2.png)    | `#526652` | `120°, 20%, 40%`  | `82, 102, 82`                |
-| greenGray1    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray1.png)    | `#293329` | `120°, 20%, 20%`  | `41, 51, 41`                |
-| teal5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal5.png)         | `#99FFDD` | `160°, 40%, 100%` | `153, 255, 221`                |
-| teal4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal4.png)         | `#7ACCB1` | `160°, 40%, 80%`  | `122, 204, 177`                |
-| teal3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal3.png)         | `#5C9985` | `160°, 40%, 60%`  | `92, 153, 133`                |
-| teal2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal2.png)         | `#3D6658` | `160°, 40%, 40%`  | `61, 102, 88`                |
-| teal1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal1.png)         | `#1F332C` | `160°, 40%, 20%`  | `31, 51, 44`                |
-| tealGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray5.png)     | `#CCFFEE` | `160°, 20%, 100%` | `204, 255, 238`                |
-| tealGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray4.png)     | `#A3CCBE` | `160°, 20%, 80%`  | `163, 204, 190`                |
-| tealGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray3.png)     | `#7A998F` | `160°, 20%, 60%`  |                 |
-| tealGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray2.png)     | `#526660` | `160°, 20%, 40%`  |                 |
-| tealGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray1.png)     | `#293330` | `160°, 20%, 20%`  |                 |
+| greenGray5    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray5.png)    | `#CCFFCC` | `120°, 20%, 100%` | `204, 255, 204` |
+| greenGray4    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray4.png)    | `#A3CCA3` | `120°, 20%, 80%`  | `163, 204, 163` |
+| greenGray3    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray3.png)    | `#7A997A` | `120°, 20%, 60%`  | `122, 153, 122` |
+| greenGray2    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray2.png)    | `#526652` | `120°, 20%, 40%`  | `82, 102, 82`   |
+| greenGray1    | ![](https://moonlitpurple.ehan.dev/colorBoxes/greenGray1.png)    | `#293329` | `120°, 20%, 20%`  | `41, 51, 41`    |
+| teal5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal5.png)         | `#99FFDD` | `160°, 40%, 100%` | `153, 255, 221` |
+| teal4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal4.png)         | `#7ACCB1` | `160°, 40%, 80%`  | `122, 204, 177` |
+| teal3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal3.png)         | `#5C9985` | `160°, 40%, 60%`  | `92, 153, 133`  |
+| teal2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal2.png)         | `#3D6658` | `160°, 40%, 40%`  | `61, 102, 88`   |
+| teal1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/teal1.png)         | `#1F332C` | `160°, 40%, 20%`  | `31, 51, 44`    |
+| tealGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray5.png)     | `#CCFFEE` | `160°, 20%, 100%` | `204, 255, 238` |
+| tealGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray4.png)     | `#A3CCBE` | `160°, 20%, 80%`  | `163, 204, 190` |
+| tealGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray3.png)     | `#7A998F` | `160°, 20%, 60%`  | `122, 153, 143`                |
+| tealGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray2.png)     | `#526660` | `160°, 20%, 40%`  | `82, 102, 96`                |
+| tealGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/tealGray1.png)     | `#293330` | `160°, 20%, 20%`  | `41, 51, 48`                |
 | cyan5         | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyan5.png)         | `#99DDFF` | `200°, 40%, 100%` |                 |
 | cyan4         | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyan4.png)         | `#7AB1CC` | `200°, 40%, 80%`  |                 |
 | cyan3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/cyan3.png)         | `#5C8599` | `200°, 40%, 60%`  |                 |
