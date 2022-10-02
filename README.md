@@ -136,10 +136,10 @@ Unlike most themes, moonlitPurple has multiple palettes for different uses.
 | blue3         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue3.png)         | `#5C7099` | `220°, 40%, 60%`  | `92, 112, 153`  |
 | blue2         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue2.png)         | `#3D4B66` | `220°, 40%, 40%`  | `61, 75, 102`   |
 | blue1         | ![](https://moonlitpurple.ehan.dev/colorBoxes/blue1.png)         | `#1F2533` | `220°, 40%, 20%`  | `31, 37, 51`    |
-| blueGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray5.png)     | `#CCDDFF` | `220°, 20%, 100%` |                 |
-| blueGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray4.png)     | `#A3B1CC` | `220°, 20%, 80%`  |                 |
-| blueGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray3.png)     | `#7A8599` | `220°, 20%, 60%`  |                 |
-| blueGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray2.png)     | `#525866` | `220°, 20%, 40%`  |                 |
+| blueGray5     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray5.png)     | `#CCDDFF` | `220°, 20%, 100%` | `204, 221, 255` |
+| blueGray4     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray4.png)     | `#A3B1CC` | `220°, 20%, 80%`  | `163, 177, 204` |
+| blueGray3     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray3.png)     | `#7A8599` | `220°, 20%, 60%`  | `122, 133, 153` |
+| blueGray2     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray2.png)     | `#525866` | `220°, 20%, 40%`  | `82, 88, 102`   |
 | blueGray1     | ![](https://moonlitpurple.ehan.dev/colorBoxes/blueGray1.png)     | `#292C33` | `220°, 20%, 20%`  |                 |
 | purple5       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple5.png)       | `#9999FF` | `240°, 40%, 100%` |                 |
 | purple4       | ![](https://moonlitpurple.ehan.dev/colorBoxes/purple4.png)       | `#7A7ACC` | `240°, 40%, 80%`  |                 |
