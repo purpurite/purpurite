@@ -140,3 +140,16 @@ Having a *small* `palette` lets *usage* of each color be **clear** (*It also mak
 | pinkGray3     | ![](https://purpurite.ehan.dev/colorBoxes/pinkGray3.png)     | `#997A8F` | `320°, 20%, 60%`  | `153, 122, 143` |
 | pinkGray2     | ![](https://purpurite.ehan.dev/colorBoxes/pinkGray2.png)     | `#665260` | `320°, 20%, 40%`  | `102, 82, 96`   |
 | pinkGray1     | ![](https://purpurite.ehan.dev/colorBoxes/pinkGray1.png)     | `#332930` | `320°, 20%, 20%`  | `51, 41, 48`    |
+
+## The Themes
+
+> The `themes` are the *usage* of purpurite's colors in other projects.
+
+purpurite is brand new and is currently a work in progress. It was created a few weeks ago, and is maintained by me, a *literal* 13 year old. Because of this, there are not currently many themes. However, in the future there will be many more and they will be much better in quality.
+
+Below is a sloppy list of currently maintained, all work-in-progress, themes. They're all found under this github orginization. (*I'll update this list and the themes later when I have more time and aren't too busy with school*)
+
+* [simple.css](https://github.com/purpurite/simple.css) (Usable & Polished - Mostly Complete)
+* [i3](https://github.com/purpurite/i3) (Very Usable - Almost Complete)
+* [waybar](https://github.com/purpurite/waybar) (Blank - Not Started)
+* [kitty](https://github.com/purpurite/kitty) (Usable - Still Needs Improvement)
