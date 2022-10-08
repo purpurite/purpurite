@@ -8,47 +8,17 @@
 <br />
 <br />
 
-## The Palettes
+Purpurite has a `palette` and a `colorscheme`. The `palette` and `colorscheme` are used in `theme`s.
 
-> A palette is a selection of colors from the colorscheme.
+The `palette` defines the *roles* of each color from the `colorscheme`. The `colorscheme` lists **all** the *colors*. The `theme`s are the *usage* of purpurite's colors in other projects.  
 
-Unlike most themes, purpurite has multiple palettes for different uses.
+Unlike *most* color palettes, purpurite's shades are **not** decided in each `theme`. **Every** color and **every** shade of each color used in purpurite is on the colorscheme. **No exceptions**. Even though this makes the `colorscheme` **very** large, it keeps **every** `theme` **completly** consistent.
 
-### Base Palette
+Having a *small* `palette` lets *usage* of each color be **clear** (*It also makes UIs and Syntax Highlighting simplier*). Having a *large* `colorscheme` lets the colors be **consistent** (*It makes Art and Un-thought-of Use Cases simpler too*).
 
-| Name    |     | Hex | HSB | RGB |
-| ------- | --- | --- | --- | --- |
-| purple5 |     |     |     |     |
-| teal5   |     |     |     |     |
-| black   |     |     |     |     |
-| gray 4  |     |     |     |     |
-| gray 3  |     |     |     |     |
-| gray 2  |     |     |     |     |
-| gray 1  |     |     |     |     |
-| white   |     |     |     |     |
-| red     |     |     |     |     |
-| orange  |     |     |     |     |
-| yellow  |     |     |     |     |
-| green   |     |     |     |     |
-| cyan    |     |     |     |     |
-| magenta |     |     |     |     |
-| pink    |     |     |     |     |
+## The Palette
 
-### UI Palette
-
-| Name         | Role                                                             |              | Hex       | HSB               | RGB |
-| ------------ | ---------------------------------------------------------------- | ------------ | --------- | ----------------- | --- |
-| blue1        | ![](https://purpurite.ehan.dev/colorBoxes/blue1.png)         | `background` | `#1F2533` | `220°, 40%, 20%`  |     |
-| blueGray5    | ![](https://purpurite.ehan.dev/colorBoxes/blueGray5.png)     | `foreground` | `#CCDDFF` | `220°, 20%, 100%` |     |
-| blue2        | ![](https://purpurite.ehan.dev/colorBoxes/blue2.png)         | `surface`    | `#3D4B66` | `220°, 40%, 40%`  |     |
-| redBright5   | ![](https://purpurite.ehan.dev/colorBoxes/redBright5.png)    | `danger`     | `#FF6666` | `0°, 60%, 100%`   |     |
-| yellowBrigh5 | ![](https://purpurite.ehan.dev/colorBoxes/yellowBright5.png) | `warning`    | `#FFCC66` | `40°, 60%, 100%`  |     |
-| green5       | ![](https://purpurite.ehan.dev/colorBoxes/green5.png)        | `success`    | `#99FF99` | `120°, 40%, 100%` |     |
-| teal5        | ![](https://purpurite.ehan.dev/colorBoxes/teal5.png)         | `secondary`  | `#99FFDD` | `160°, 40%, 100%` |     |
-| blue5        | ![](https://purpurite.ehan.dev/colorBoxes/blue5.png)         | `info`       | `#99BBFF` | `220°, 40%, 100%` |     |
-| purple5      | ![](https://purpurite.ehan.dev/colorBoxes/purple5.png)       | `primary`    | `#9999FF` | `240°, 40%, 100%` |     |
-
-### Syntax Highlighting Palette
+> The 'palette' defines the *roles* of each color from the `colorscheme`
 
 | Name          | 🎨                                                               | Roles                                                                    | Hex       | HSB               | RGB |
 | ------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ | --------- | ----------------- | --- |
@@ -67,7 +37,7 @@ Unlike most themes, purpurite has multiple palettes for different uses.
 
 ## The Colorscheme
 
-> The colorscheme is a huge list of colors that the palettes use.
+> The `colorscheme` lists **all** the *colors*
 
 | Label         | 🎨                                                               | Hex       | HSB               | RGB             |
 | ------------- | ---------------------------------------------------------------- | --------- | ----------------- | --------------- |
