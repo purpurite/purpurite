@@ -8,6 +8,13 @@
 <br />
 <br />
 
+* [The Palette](#the-palette)
+* [The Colorscheme](#the-colorscheme)
+* [The Themes](#the-themes)
+
+<br />
+<br />
+
 > Purpurite has a `palette` and a `colorscheme`. The `palette` and `colorscheme` are used in `themes`.
 
 The `palette` defines the *roles* of each color from the `colorscheme`. The `colorscheme` lists **all** the *colors*. The `themes` are the *usage* of purpurite's colors in other projects.  
