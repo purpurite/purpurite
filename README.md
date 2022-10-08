@@ -12,7 +12,7 @@ Purpurite has a `palette` and a `colorscheme`. The `palette` and `colorscheme` a
 
 The `palette` defines the *roles* of each color from the `colorscheme`. The `colorscheme` lists **all** the *colors*. The `theme`s are the *usage* of purpurite's colors in other projects.  
 
-Unlike *most* color palettes, purpurite's shades are **not** decided in each `theme`. **Every** color and **every** shade of each color used in purpurite is on the colorscheme. **No exceptions**. Even though this makes the `colorscheme` **very** large, it keeps **every** `theme` **completly** consistent.
+Unlike *most* color palettes, purpurite's shades are **not** decided in each `theme`. **Every** color and **every** shade of each color used in purpurite is on the colorscheme. ***No exceptions!!!*** Even though this makes the `colorscheme` **very** large, it keeps **every** `theme` **completly** consistent.
 
 Having a *small* `palette` lets *usage* of each color be **clear** (*It also makes UIs and Syntax Highlighting simplier*). Having a *large* `colorscheme` lets the colors be **consistent** (*It makes Art and Un-thought-of Use Cases simpler too*).
 
