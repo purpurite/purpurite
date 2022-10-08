@@ -27,20 +27,20 @@ Having a *small* `palette` lets *usage* of each color be **clear** (*It also mak
 
 > The 'palette' defines the *roles* of each color from the `colorscheme`
 
-| Name          | 🎨                                                               | Roles                                                                    | Hex       | HSB               | RGB |
+| Label          | 🎨                                                               | Roles                                                                    | Hex       | HSB               | RGB |
 | ------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ | --------- | ----------------- | --- |
-| blue1         | ![](https://purpurite.ehan.dev/colorBoxes/blue1.png)         | `background`, <br /> `ansiBlack`, <br />                                 | `#1F2533` | `220°, 40%, 20%`  |     |
-| blueGray5     | ![](https://purpurite.ehan.dev/colorBoxes/blueGray5.png)     | `foreground`, <br /> `ansiWhite` & `ansiBrightWhite`, <br /> `diffText`, | `#CCDDFF` | `220°, 20%, 100%` |     |
-| blue2         | ![](https://purpurite.ehan.dev/colorBoxes/blue2.png)         | `surface`, <br /> `ansiBrightBlack`, <br />                              | `#3D4B66` | `220°, 40%, 40%`  |     |
-| redBright5    | ![](https://purpurite.ehan.dev/colorBoxes/redBright5.png)    | `red` & `danger`, <br /> `ansiRed` & `ansiBrightRed`, <br /> `error`,    | `#FF6666` | `0°, 60%, 100%`   |     |
-| orangeBright5 | ![](https://purpurite.ehan.dev/colorBoxes/orangeBright5.png) | `orange`, <br /> `ansiYellow`, <br /> `invalid`,                         | `#FF9966` | `20°, 60%, 100%`  |     |
-| yellowBrigh5  | ![](https://purpurite.ehan.dev/colorBoxes/yellowBright5.png) | `yellow` & `warning`, <br /> `ansiBrightYellow`, <br /> `deprecated`,    | `#FFCC66` | `40°, 60%, 100%`  |     |
-| green5        | ![](https://purpurite.ehan.dev/colorBoxes/green5.png)        | `green` & `success`, <br /> `ansiGreen`, <br />                          | `#99FF99` | `120°, 40%, 100%` |     |
-| teal5         | ![](https://purpurite.ehan.dev/colorBoxes/teal5.png)         | `teal` & `secondary`, <br /> `ansiBrightGreen`, <br />                   | `#99FFDD` | `160°, 40%, 100%` |     |
-| cyan5         | ![](https://purpurite.ehan.dev/colorBoxes/cyan5.png)         | `cyan`, <br /> `ansiCyan` & `ansiBrightCyan`, <br />                     | `#99DDFF` | `200°, 40%, 100%` |     |
-| blue5         | ![](https://purpurite.ehan.dev/colorBoxes/blue5.png)         | `blue`, <br /> `ansiBlue` & `ansiBrightBlue`, <br />                     | `#99BBFF` | `220°, 40%, 100%` |     |
-| purple5       | ![](https://purpurite.ehan.dev/colorBoxes/purple5.png)       | `purple` & `primary`, <br /> `ansiBrightMagenta`, <br />                 | `#9999FF` | `240°, 40%, 100%` |     |
-| pink5         | ![](https://purpurite.ehan.dev/colorBoxes/pink5.png)         | `pink`, <br /> `ansiMagenta`, <br />                                     | `#FF99DD` | `320°, 40%, 100%` |     |
+| purple5       | ![](https://purpurite.ehan.dev/colorBoxes/purple5.png)       | `purple` & `primary`, <br /> `ansiBrightMagenta`, <br /> <br /> (roles are a work in progress)                 | `#9999FF` | `240°, 40%, 100%` | `153, 153, 255` |
+| teal5         | ![](https://purpurite.ehan.dev/colorBoxes/teal5.png)         | `teal` & `secondary`, <br /> `ansiBrightGreen`, <br /> <br /> (roles are a work in progress)                   | `#99FFDD` | `160°, 40%, 100%` | `153, 255, 221` |
+| blue1         | ![](https://purpurite.ehan.dev/colorBoxes/blue1.png)         | `background`, <br /> `ansiBlack`, <br /> <br /> (roles are a work in progress)                                | `#1F2533` | `220°, 40%, 20%`  | `31, 37, 51`    |
+| blue2         | ![](https://purpurite.ehan.dev/colorBoxes/blue2.png)         | `surface`, <br /> `ansiBrightBlack`, <br /> <br /> (roles are a work in progress)                              | `#3D4B66` | `220°, 40%, 40%`  | `61, 75, 102`   |
+| blueGray5     | ![](https://purpurite.ehan.dev/colorBoxes/blueGray5.png)     | `foreground`, <br /> `ansiWhite` & `ansiBrightWhite`, <br /> `diffText`, <br /> <br /> (roles are a work in progress) | `#CCDDFF` | `220°, 20%, 100%` | `204, 221, 255` |
+| redBright5    | ![](https://purpurite.ehan.dev/colorBoxes/redBright5.png)    | `red` & `danger`, <br /> `ansiRed` & `ansiBrightRed`, <br /> `error`, <br /> <br /> (roles are a work in progress)    | `#FF6666` | `0°, 60%, 100%`   | `255, 102, 102` |
+| orangeBright5 | ![](https://purpurite.ehan.dev/colorBoxes/orangeBright5.png) | `orange`, <br /> `ansiYellow`, <br /> `invalid`, <br /> <br /> (roles are a work in progress)                         | `#FF9966` | `20°, 60%, 100%`  | `255, 153, 102` |
+| yellowBrigh5  | ![](https://purpurite.ehan.dev/colorBoxes/yellowBright5.png) | `yellow` & `warning`, <br /> `ansiBrightYellow`, <br /> `deprecated`, <br /> <br /> (roles are a work in progress)    | `#FFDD99` | `40°, 40%, 100%`  | `255, 221, 153` |
+| green5        | ![](https://purpurite.ehan.dev/colorBoxes/green5.png)        | `green` & `success`, <br /> `ansiGreen`, <br /> <br /> (roles are a work in progress)                          | `#99FF99` | `120°, 40%, 100%` | `153, 255, 153` |
+| cyan5         | ![](https://purpurite.ehan.dev/colorBoxes/cyan5.png)         | `cyan`, <br /> `ansiCyan` & `ansiBrightCyan`, <br /> <br /> (roles are a work in progress)                     | `#CCEEFF` | `200°, 20%, 100%` | `204, 238, 255` |
+| blue5         | ![](https://purpurite.ehan.dev/colorBoxes/blue5.png)         | `blue`, <br /> `ansiBlue` & `ansiBrightBlue`, <br /> <br /> (roles are a work in progress)                     | `#99BBFF` | `220°, 40%, 100%` | `153, 187, 255` |
+| pink5         | ![](https://purpurite.ehan.dev/colorBoxes/pink5.png)         | `pink`, <br /> `ansiMagenta`, <br /> <br /> (roles are a work in progress)                                     | `#FF99DD` | `320°, 40%, 100%` | `255, 153, 221` |
 
 ## The Colorscheme
 
