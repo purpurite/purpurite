@@ -8,48 +8,48 @@
 <br />
 <br />
 
-* [The Palette](#the-palette)
-* [The Colorscheme](#the-colorscheme)
-* [The Themes](#the-themes)
+-  [The Palette](#the-palette)
+-  [The Colorscheme](#the-colorscheme)
+-  [The Themes](#the-themes)
 
 <br />
 <br />
 
 > Purpurite has a `palette` and a `colorscheme`. The `palette` and `colorscheme` are used in `themes`.
 
-The `palette` defines the *roles* of each color from the `colorscheme`. The `colorscheme` lists **all** the *colors*. The `themes` are the *usage* of purpurite's colors in other projects.  
+The `palette` defines the _roles_ of each color from the `colorscheme`. The `colorscheme` lists **all** the _colors_. The `themes` are the _usage_ of purpurite's colors in other projects.
 
-Unlike *most* color palettes, purpurite's shades are **not** decided in each `theme`. **Every** color and **every** shade of each color used in purpurite is on the colorscheme. ***No exceptions!!!*** Even though this makes the `colorscheme` **very** large, it keeps **every** `theme` **completly** consistent.
+Unlike _most_ color palettes, purpurite's shades are **not** decided in each `theme`. **Every** color and **every** shade of each color used in purpurite is on the colorscheme. **_No exceptions!!!_** Even though this makes the `colorscheme` **very** large, it keeps **every** `theme` **completly** consistent.
 
-Having a *small* `palette` lets *usage* of each color be **clear** (*It also makes UIs and Syntax Highlighting simplier*). Having a *large* `colorscheme` lets the colors be **consistent** (*It makes Art and Un-thought-of Use Cases simpler too*).
+Having a _small_ `palette` lets _usage_ of each color be **clear** (_It also makes UIs and Syntax Highlighting simplier_). Having a _large_ `colorscheme` lets the colors be **consistent** (_It makes Art and Un-thought-of Use Cases simpler too_).
 
 ## The Palette
 
-> The 'palette' defines the *roles* of each color from the `colorscheme`
+> The 'palette' defines the _roles_ of each color from the `colorscheme`
 
-| Label          | 🎨                                                           | UI Roles         | Syntax Highlighting Roles                                                                    | Hex       | HSB               | RGB |
-| ------------- | --------------------------------------------------------------| ---------------- | ------------------------------------------------------------------------ | --------- | ----------------- | --- |
-| purple5       | ![](https://purpurite.ehan.dev/colorBoxes/purple5.png)       |  |`purple` & `primary`, <br /> `ansiBrightMagenta`, <br /> <br /> (roles are a work in progress)                 | `#9999FF` | `240°, 40%, 100%` | `153, 153, 255` |
-| teal5         | ![](https://purpurite.ehan.dev/colorBoxes/teal5.png)         |  | `teal` & `secondary`, <br /> `ansiBrightGreen`, <br /> <br /> (roles are a work in progress)                   | `#99FFDD` | `160°, 40%, 100%` | `153, 255, 221` |
-| blue1         | ![](https://purpurite.ehan.dev/colorBoxes/blue1.png)         | | `background`, <br /> `ansiBlack`, <br /> <br /> (roles are a work in progress)                                | `#1F2533` | `220°, 40%, 20%`  | `31, 37, 51`    |
-| blue2         | ![](https://purpurite.ehan.dev/colorBoxes/blue2.png)         | | `surface`, <br /> `ansiBrightBlack`, <br /> <br /> (roles are a work in progress)                              | `#3D4B66` | `220°, 40%, 40%`  | `61, 75, 102`   |
-| blueGray5     | ![](https://purpurite.ehan.dev/colorBoxes/blueGray5.png)     | | `foreground`, <br /> `ansiWhite` & `ansiBrightBlue` & `ansiBrightWhite`, <br /> `diffText`, <br /> <br /> (roles are a work in progress) | `#CCDDFF` | `220°, 20%, 100%` | `204, 221, 255` |
-| redBright5    | ![](https://purpurite.ehan.dev/colorBoxes/redBright5.png)    | | `red` & `danger`, <br /> `ansiRed`, <br /> `error`, <br /> <br /> (roles are a work in progress)    | `#FF6666` | `0°, 60%, 100%`   | `255, 102, 102` |
-| red5    | ![](https://purpurite.ehan.dev/colorBoxes/red5.png)    | | <br /> `ansiBrightRed`, <br /> <br /> (roles are a work in progress)    | `#FF9999` | `0°, 40%, 100%`   | `255, 153, 153` |
-| orangeBright5 | ![](https://purpurite.ehan.dev/colorBoxes/orangeBright5.png) | | `orange`, <br /> `ansiYellow`, <br /> `invalid`, <br /> <br /> (roles are a work in progress)                         | `#FF9966` | `20°, 60%, 100%`  | `255, 153, 102` |
-| yellowBrigh5  | ![](https://purpurite.ehan.dev/colorBoxes/yellowBright5.png)  | | `yellow` & `warning`, <br /> `ansiBrightYellow`, <br /> `deprecated`, <br /> <br /> (roles are a work in progress)    | `#FFDD99` | `40°, 40%, 100%`  | `255, 221, 153` |
-| green5        | ![](https://purpurite.ehan.dev/colorBoxes/green5.png)        | | `green` & `success`, <br /> `ansiGreen`, <br /> <br /> (roles are a work in progress)                          | `#99FF99` | `120°, 40%, 100%` | `153, 255, 153` |
-| cyan5         | ![](https://purpurite.ehan.dev/colorBoxes/cyan5.png)        | | `cyan`, <br /> `ansiCyan`, <br /> <br /> (roles are a work in progress)                     | `#99DDFF` | `200°, 40%, 100%` | `153, 221, 255` |
-| cyanGray5         | ![](https://purpurite.ehan.dev/colorBoxes/cyanGray5.png)   |      | <br /> `ansiBrightCyan`, <br /> <br /> (roles are a work in progress)                     | `#CCEEFF` | `200°, 20%, 100%` | `204, 238, 255` |
-| blue5         | ![](https://purpurite.ehan.dev/colorBoxes/blue5.png)       |  | `blue`, <br /> `ansiBlue`, <br /> <br /> (roles are a work in progress)                     | `#99BBFF` | `220°, 40%, 100%` | `153, 187, 255` |
-| pink5         | ![](https://purpurite.ehan.dev/colorBoxes/pink5.png)       |  | `pink`, <br /> `ansiMagenta`, <br /> <br /> (roles are a work in progress)                                     | `#FF99DD` | `320°, 40%, 100%` | `255, 153, 221` |
+| Label         | 🎨                                                           | UI Roles | Syntax Highlighting Roles                                                                                                                | Hex       | HSB               | RGB             |
+| ------------- | ------------------------------------------------------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | --------------- |
+| purple5       | ![](https://purpurite.ehan.dev/colorBoxes/purple5.png)       |          | `purple` & `primary`, <br /> `ansiBrightMagenta`, <br /> <br /> (roles are a work in progress)                                           | `#9999FF` | `240°, 40%, 100%` | `153, 153, 255` |
+| teal5         | ![](https://purpurite.ehan.dev/colorBoxes/teal5.png)         |          | `teal` & `secondary`, <br /> `ansiBrightGreen`, <br /> <br /> (roles are a work in progress)                                             | `#99FFDD` | `160°, 40%, 100%` | `153, 255, 221` |
+| blue1         | ![](https://purpurite.ehan.dev/colorBoxes/blue1.png)         |          | `background`, <br /> `ansiBlack`, <br /> <br /> (roles are a work in progress)                                                           | `#1F2533` | `220°, 40%, 20%`  | `31, 37, 51`    |
+| blue2         | ![](https://purpurite.ehan.dev/colorBoxes/blue2.png)         |          | `surface`, <br /> `ansiBrightBlack`, <br /> <br /> (roles are a work in progress)                                                        | `#3D4B66` | `220°, 40%, 40%`  | `61, 75, 102`   |
+| blueGray5     | ![](https://purpurite.ehan.dev/colorBoxes/blueGray5.png)     |          | `foreground`, <br /> `ansiWhite` & `ansiBrightBlue` & `ansiBrightWhite`, <br /> `diffText`, <br /> <br /> (roles are a work in progress) | `#CCDDFF` | `220°, 20%, 100%` | `204, 221, 255` |
+| redBright5    | ![](https://purpurite.ehan.dev/colorBoxes/redBright5.png)    |          | `red` & `danger`, <br /> `ansiRed`, <br /> `error`, <br /> <br /> (roles are a work in progress)                                         | `#FF6666` | `0°, 60%, 100%`   | `255, 102, 102` |
+| red5          | ![](https://purpurite.ehan.dev/colorBoxes/red5.png)          |          | <br /> `ansiBrightRed`, <br /> <br /> (roles are a work in progress)                                                                     | `#FF9999` | `0°, 40%, 100%`   | `255, 153, 153` |
+| orangeBright5 | ![](https://purpurite.ehan.dev/colorBoxes/orangeBright5.png) |          | `orange`, <br /> `ansiYellow`, <br /> `invalid`, <br /> <br /> (roles are a work in progress)                                            | `#FF9966` | `20°, 60%, 100%`  | `255, 153, 102` |
+| yellowBrigh5  | ![](https://purpurite.ehan.dev/colorBoxes/yellowBright5.png) |          | `yellow` & `warning`, <br /> `ansiBrightYellow`, <br /> `deprecated`, <br /> <br /> (roles are a work in progress)                       | `#FFDD99` | `40°, 40%, 100%`  | `255, 221, 153` |
+| green5        | ![](https://purpurite.ehan.dev/colorBoxes/green5.png)        |          | `green` & `success`, <br /> `ansiGreen`, <br /> <br /> (roles are a work in progress)                                                    | `#99FF99` | `120°, 40%, 100%` | `153, 255, 153` |
+| cyan5         | ![](https://purpurite.ehan.dev/colorBoxes/cyan5.png)         |          | `cyan`, <br /> `ansiCyan`, <br /> <br /> (roles are a work in progress)                                                                  | `#99DDFF` | `200°, 40%, 100%` | `153, 221, 255` |
+| cyanGray5     | ![](https://purpurite.ehan.dev/colorBoxes/cyanGray5.png)     |          | <br /> `ansiBrightCyan`, <br /> <br /> (roles are a work in progress)                                                                    | `#CCEEFF` | `200°, 20%, 100%` | `204, 238, 255` |
+| blue5         | ![](https://purpurite.ehan.dev/colorBoxes/blue5.png)         |          | `blue`, <br /> `ansiBlue`, <br /> <br /> (roles are a work in progress)                                                                  | `#99BBFF` | `220°, 40%, 100%` | `153, 187, 255` |
+| pink5         | ![](https://purpurite.ehan.dev/colorBoxes/pink5.png)         |          | `pink`, <br /> `ansiMagenta`, <br /> <br /> (roles are a work in progress)                                                               | `#FF99DD` | `320°, 40%, 100%` | `255, 153, 221` |
 
 ## The Colorscheme
 
-> The `colorscheme` lists **all** the *colors*
+> The `colorscheme` lists **all** the _colors_
 
-| Label         | 🎨                                                               | Hex       | HSB               | RGB             |
-| ------------- | ---------------------------------------------------------------- | --------- | ----------------- | --------------- |
+| Label         | 🎨                                                           | Hex       | HSB               | RGB             |
+| ------------- | ------------------------------------------------------------ | --------- | ----------------- | --------------- |
 | redBright5    | ![](https://purpurite.ehan.dev/colorBoxes/redBright5.png)    | `#FF6666` | `0°, 60%, 100%`   | `255, 102, 102` |
 | redBright4    | ![](https://purpurite.ehan.dev/colorBoxes/redBright4.png)    | `#CC5252` | `0°, 60%, 80%`    | `204, 82, 82`   |
 | redBright3    | ![](https://purpurite.ehan.dev/colorBoxes/redBright3.png)    | `#993D3D` | `0°, 60%, 60%`    | `153, 61, 61`   |
@@ -143,13 +143,13 @@ Having a *small* `palette` lets *usage* of each color be **clear** (*It also mak
 
 ## The Themes
 
-> The `themes` are the *usage* of purpurite's colors in other projects.
+> The `themes` are the _usage_ of purpurite's colors in other projects.
 
-purpurite is brand new and is currently a work in progress. It was created a few weeks ago, and is maintained by me, a *literal* 13 year old. Because of this, there are not currently many themes. However, in the future there will be many more and they will be much better in quality.
+purpurite is brand new and is currently a work in progress. It was created a few weeks ago, and is maintained by me, a _literal_ 13 year old. Because of this, there are not currently many themes. However, in the future there will be many more and they will be much better in quality.
 
-Below is a sloppy list of currently maintained, all work-in-progress, themes. They're all found under this github orginization. (*I'll update this list and the themes later when I have more time and aren't too busy with school*)
+Below is a sloppy list of currently maintained, all work-in-progress, themes. They're all found under this github orginization. (_I'll update this list and the themes later when I have more time and aren't too busy with school_)
 
-* [simple.css](https://github.com/purpurite/simple.css) (Usable & Polished - Mostly Complete)
-* [i3](https://github.com/purpurite/i3) (Very Usable - Almost Complete)
-* [waybar](https://github.com/purpurite/waybar) (Blank - Not Started)
-* [kitty](https://github.com/purpurite/kitty) (Usable - Still Needs Improvement)
+-  [simple.css](https://github.com/purpurite/simple.css) (Usable & Polished - Mostly Complete)
+-  [i3](https://github.com/purpurite/i3) (Very Usable - Almost Complete)
+-  [waybar](https://github.com/purpurite/waybar) (Blank - Not Started)
+-  [kitty](https://github.com/purpurite/kitty) (Usable - Still Needs Improvement)
