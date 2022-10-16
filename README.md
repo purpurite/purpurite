@@ -8,20 +8,38 @@
 <br />
 <br />
 
--  [The Palette](#the-palette)
--  [The Colorscheme](#the-colorscheme)
--  [The Themes](#the-themes)
+-  [Terminology](#terminology)
+    - [Definitions](#definitions)
+    - [Usage](#usage)
+-  [Palette](#the-palette)
+-  [Extended Palette](#the-extended-palette)
+-  [Colorscheme](#the-colorscheme)
+-  [Themes/Ports](#themes-ports)
 
 <br />
 <br />
 
-> Purpurite has a `palette` and a `colorscheme`. The `palette` and `colorscheme` are used in `themes`.
+# Terminology
 
-The `palette` defines the _roles_ of each color from the `colorscheme`. The `colorscheme` lists **all** the _colors_. The `themes` are the _usage_ of purpurite's colors in other projects.
+> Purpurite is a `color palette`/`theme`, it has a `palette`, `specification`, `extended palette`, and `colorscheme`.
 
-Unlike _most_ color palettes, purpurite's shades are **not** decided in each `theme`. **Every** color and **every** shade of each color used in purpurite is on the colorscheme. **_No exceptions!!!_** Even though this makes the `colorscheme` **very** large, it keeps **every** `theme` **completly** consistent.
+## Definitions
 
-Having a _small_ `palette` lets _usage_ of each color be **clear** (_It also makes UIs and Syntax Highlighting simplier_). Having a _large_ `colorscheme` lets the colors be **consistent** (_It makes Art and Un-thought-of Use Cases simpler too_).
+The `palette` lists the main colors from the `colorscheme`.
+
+The `specification` how to use the colors from the `palette` in `themes`/`ports`.
+
+The `extended palette` lists extra colors that should be used in media such as artwork.
+
+The `colorscheme` lists **all** the possible _colors_ that should ***ever*** be used. ***Any*** color outside of the `colorscheme` ***cannot*** be used in a purpurite `theme`/`port`.
+
+## Usage
+
+The colors in `themes`/`ports` are from the `palette` and follow the usage and rules from the `specification`.
+
+If a `theme`/`port` needs a color that is not on the `palette`, it should use one from the `extended palette`. If it needs a color that is not in the `extended palette` it must use a color from the `colorscheme`.
+
+The `specification` does not apply to artworks. Drawings, wallpapers, profile pictures, and other forms of art should use colors from the `extended palette`. If an artwork needs a color that is not in the `extended palette`, it should use 
 
 ## The Palette
 
