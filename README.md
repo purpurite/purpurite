@@ -167,8 +167,9 @@ purpurite is brand new and is currently a work in progress. It was created a few
 
 Below is a sloppy list of currently maintained, all work-in-progress, themes. They're all found under this github orginization. (_I'll update this list and the themes later when I have more time and aren't too busy with school_)
 
+-  [spicetify](https://github.com/purpurite/spicetify) (Perfectly Usable - Repository Needs Work)
 -  [simple.css](https://github.com/purpurite/simple.css) (Usable & Polished - Mostly Complete)
--  [bspwm](https://github.com/purpurite/bspwm) (Perfectly Usable - Repository Needs Work)
+-  [bspwm](https://github.com/purpurite/bspwm) (Perfectly Usable - Repository Needs Lots of Work)
 -  [i3](https://github.com/purpurite/i3) (Very Usable - Almost Complete)
 -  [waybar](https://github.com/purpurite/waybar) (Blank - Not Started)
 -  [kitty](https://github.com/purpurite/kitty) (Usable - Still Needs Improvement)
