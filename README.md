@@ -9,6 +9,7 @@
 
 -  [Terminology](#terminology)
 -  [Main Palette](#main-palette)
+-  [Specification](#specification)
 -  [Extended Palette](#extended-palette)
 -  [Colorscheme](#colorscheme)
 -  [Themes](#themes)
@@ -19,7 +20,7 @@
 
 > Purpurite is a `color palette`, it has a `main palette`, `specification`, `extended palette`, and `colorscheme`. Purpurite has `themes` for many apps.
 
-The `main palette` lists the main colors, it has very limited colors. The `specification` explains how to use the colors from the `main palette` inside of `themes`. The `extended palette` lists important colors. The `extended palette` has limited colors, but still more than the `main palette`. The `colorscheme` lists ***all*** the possible colors that should ***ever*** be used. The `colorscheme` has ***lots*** of colors. The `themes` are packages that implement purpurite into other apps or projects.
+The `main palette` lists the main colors, it has very limited colors. The `specification` is a **huge** document that explains how to use the colors from the `main palette` inside of `themes`. The `extended palette` lists important colors. The `extended palette` has limited colors, but still more than the `main palette`. The `colorscheme` lists ***all*** the possible colors that should ***ever*** be used. The `colorscheme` has ***lots*** of colors. The `themes` are packages that implement purpurite into other apps or projects.
 
 ## Main Palette
 
@@ -41,6 +42,12 @@ The `main palette` lists the main colors, it has very limited colors. The `speci
 | cyanGray5     | ![](https://purpurite.ehan.dev/colorBoxes/cyanGray5.png)     |          | <br /> `ansiBrightCyan`, <br /> <br /> (roles are a work in progress)                                                                    | `#CCEEFF` | `200°, 20%, 100%` | `204, 238, 255` |
 | blue5         | ![](https://purpurite.ehan.dev/colorBoxes/blue5.png)         |          | `blue`, <br /> `ansiBlue`, <br /> <br /> (roles are a work in progress)                                                                  | `#99BBFF` | `220°, 40%, 100%` | `153, 187, 255` |
 | pink5         | ![](https://purpurite.ehan.dev/colorBoxes/pink5.png)         |          | `pink`, <br /> `ansiMagenta`, <br /> <br /> (roles are a work in progress)                                                               | `#FF99DD` | `320°, 40%, 100%` | `255, 153, 221` |
+
+## Specification
+
+> The `specification` is a **huge** document that explains how to use the colors from the `main palette` inside of `themes`.
+
+
 
 ## Extended Palette
 
