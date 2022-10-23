@@ -19,7 +19,7 @@
 
 > Purpurite is a `color palette`, it has a `main palette`, `specification`, `extended palette`, and `colorscheme`. Purpurite has `themes` for many apps.
 
-The `main palette` lists the main colors, it has very limited colors. The `specification` explains how to use the colors from the `main palette` inside of `themes`. The `extended palette` lists important colors. The `extended palette` has limited colors, but still more than the `main palette`. The `colorscheme` lists **all** the possible colors that should ***ever*** be used. The `colorscheme` has ***lots*** of colors. The `themes` are packages that implement purpurite into other apps or projects.
+The `main palette` lists the main colors, it has very limited colors. The `specification` explains how to use the colors from the `main palette` inside of `themes`. The `extended palette` lists important colors. The `extended palette` has limited colors, but still more than the `main palette`. The `colorscheme` lists ***all*** the possible colors that should ***ever*** be used. The `colorscheme` has ***lots*** of colors. The `themes` are packages that implement purpurite into other apps or projects.
 
 ## Main Palette
 
@@ -65,7 +65,7 @@ The `main palette` lists the main colors, it has very limited colors. The `speci
 
 ## Colorscheme
 
-> The `colorscheme` lists **all** the possible colors that should ***ever*** be used. The `colorscheme` has ***lots*** of colors.
+> The `colorscheme` lists ***all*** the possible colors that should ***ever*** be used. The `colorscheme` has ***lots*** of colors.
 
 | Label         | 🎨                                                           | Hex       | HSB               | RGB             |
 | ------------- | ------------------------------------------------------------ | --------- | ----------------- | --------------- |
