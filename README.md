@@ -1,47 +1,27 @@
 <br />
 <br />
 <p align=center><a href=https://purpurite.ehan.dev><img width=200 height=200 src=https://purpurite.ehan.dev/colorBoxes/purple5.png></a></p>
-<h1 align=center> purpurite - colors </h1>
+<h1 align=center> purpurite </h1>
 <p align=center> A purple-ish-dark theme, palette, & colorscheme </p> 
 <p align=center> <a href=https://purpurite.ehan.dev> Website </a> - <a href=https://github.com/purpurite> Source Code (GitHub) </a> </p>
 
 <br />
-<br />
 
 -  [Terminology](#terminology)
-    - [Definitions](#definitions)
-    - [Usage](#usage)
--  [Palette](#the-palette)
--  [Extended Palette](#the-extended-palette)
--  [Colorscheme](#the-colorscheme)
--  [Themes/Ports](#themes-ports)
+-  [Main Palette](#main-palette)
+-  [Extended Palette](#extended-palette)
+-  [Colorscheme](#colorscheme)
+-  [Themes](#themes)
 
 <br />
-<br />
 
-# Terminology
+## Terminology
 
-> Purpurite is a `color palette`/`theme`, it has a `palette`, `specification`, `extended palette`, and `colorscheme`.
+> Purpurite is a `color palette`, it has a `main palette`, `specification`, `extended palette`, and `colorscheme`. Purpurite has `themes` for many apps.
 
-## Definitions
+The `main palette` lists the main colors, it has very limited colors. The `specification` explains how to use the colors from the `main palette` inside `themes`. The `extended palette` lists important colors to use in artwork. The `extended palette` has limited colors, but still more than the `main palette` The `colorscheme` lists **all** the possible _colors_ that should ***ever*** be used. ***Any*** color outside of the `colorscheme` ***cannot*** be used in a purpurite `theme`. The `colorscheme` has ***lots*** of colors.
 
-The `palette` lists the main colors from the `colorscheme`.
-
-The `specification` how to use the colors from the `palette` in `themes`/`ports`.
-
-The `extended palette` lists extra colors that should be used in media such as artwork.
-
-The `colorscheme` lists **all** the possible _colors_ that should ***ever*** be used. ***Any*** color outside of the `colorscheme` ***cannot*** be used in a purpurite `theme`/`port`.
-
-## Usage
-
-The colors in `themes`/`ports` are from the `palette` and follow the usage and rules from the `specification`.
-
-If a `theme`/`port` needs a color that is not on the `palette`, it should use one from the `extended palette`. If it needs a color that is not in the `extended palette` it must use a color from the `colorscheme`.
-
-The `specification` does not apply to artworks. Drawings, wallpapers, profile pictures, and other forms of art should use colors from the `extended palette`. If an artwork needs a color that is not in the `extended palette`, it should use 
-
-## The Palette
+## Main Palette
 
 > The 'palette' defines the _roles_ of each color from the `colorscheme`
 
@@ -62,7 +42,7 @@ The `specification` does not apply to artworks. Drawings, wallpapers, profile pi
 | blue5         | ![](https://purpurite.ehan.dev/colorBoxes/blue5.png)         |          | `blue`, <br /> `ansiBlue`, <br /> <br /> (roles are a work in progress)                                                                  | `#99BBFF` | `220°, 40%, 100%` | `153, 187, 255` |
 | pink5         | ![](https://purpurite.ehan.dev/colorBoxes/pink5.png)         |          | `pink`, <br /> `ansiMagenta`, <br /> <br /> (roles are a work in progress)                                                               | `#FF99DD` | `320°, 40%, 100%` | `255, 153, 221` |
 
-## The Colorscheme
+## Colorscheme
 
 > The `colorscheme` lists **all** the _colors_
 
@@ -159,7 +139,7 @@ The `specification` does not apply to artworks. Drawings, wallpapers, profile pi
 | pinkGray2     | ![](https://purpurite.ehan.dev/colorBoxes/pinkGray2.png)     | `#665260` | `320°, 20%, 40%`  | `102, 82, 96`   |
 | pinkGray1     | ![](https://purpurite.ehan.dev/colorBoxes/pinkGray1.png)     | `#332930` | `320°, 20%, 20%`  | `51, 41, 48`    |
 
-## The Themes
+## Themes
 
 > The `themes` are the _usage_ of purpurite's colors in other projects.
 
