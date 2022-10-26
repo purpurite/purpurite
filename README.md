@@ -179,5 +179,4 @@ Below is a sloppy list of currently maintained, all work-in-progress, themes. Th
 -  [simple.css](https://github.com/purpurite/simple.css) (Usable & Polished - Mostly Complete)
 -  [bspwm](https://github.com/purpurite/bspwm) (Perfectly Usable - Repository Needs Lots of Work)
 -  [i3](https://github.com/purpurite/i3) (Very Usable - Almost Complete)
--  [waybar](https://github.com/purpurite/waybar) (Blank - Not Started)
 -  [kitty](https://github.com/purpurite/kitty) (Usable - Still Needs Improvement)
