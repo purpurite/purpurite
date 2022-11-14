@@ -36,7 +36,7 @@ The `main palette` lists the main colors, it has very limited colors. The `speci
 | redBright5    | ![](https://purpurite.ehan.dev/colorBoxes/redBright5.png)    | `#FF6666` | `0°, 60%, 100%`   | `255, 102, 102` |
 | red5          | ![](https://purpurite.ehan.dev/colorBoxes/red5.png)          | `#FF9999` | `0°, 40%, 100%`   | `255, 153, 153` |
 | orangeBright5 | ![](https://purpurite.ehan.dev/colorBoxes/orangeBright5.png) | `#FF9966` | `20°, 60%, 100%`  | `255, 153, 102` |
-| yellowBrigh5  | ![](https://purpurite.ehan.dev/colorBoxes/yellowBright5.png) | `#FFDD99` | `40°, 40%, 100%`  | `255, 221, 153` |
+| yellowBrigh5  | ![](https://purpurite.ehan.dev/colorBoxes/yellowBright5.png) | `#FFCC66` | `40°, 40%, 100%`  | `255, 221, 153` |
 | green5        | ![](https://purpurite.ehan.dev/colorBoxes/green5.png)        | `#99FF99` | `120°, 40%, 100%` | `153, 255, 153` |
 | cyan5         | ![](https://purpurite.ehan.dev/colorBoxes/cyan5.png)         | `#99DDFF` | `200°, 40%, 100%` | `153, 221, 255` |
 | cyanGray5     | ![](https://purpurite.ehan.dev/colorBoxes/cyanGray5.png)     | `#CCEEFF` | `200°, 20%, 100%` | `204, 238, 255` |
@@ -63,7 +63,7 @@ The `main palette` lists the main colors, it has very limited colors. The `speci
 | redBright5    | ![](https://purpurite.ehan.dev/colorBoxes/redBright5.png)    | `#FF6666` | `0°, 60%, 100%`   | `255, 102, 102` |
 | red5          | ![](https://purpurite.ehan.dev/colorBoxes/red5.png)          | `#FF9999` | `0°, 40%, 100%`   | `255, 153, 153` |
 | orangeBright5 | ![](https://purpurite.ehan.dev/colorBoxes/orangeBright5.png) | `#FF9966` | `20°, 60%, 100%`  | `255, 153, 102` |
-| yellowBrigh5  | ![](https://purpurite.ehan.dev/colorBoxes/yellowBright5.png) | `#FFDD99` | `40°, 40%, 100%`  | `255, 221, 153` |
+| yellowBrigh5  | ![](https://purpurite.ehan.dev/colorBoxes/yellowBright5.png) | `#FFCC66` | `40°, 40%, 100%`  | `255, 221, 153` |
 | green5        | ![](https://purpurite.ehan.dev/colorBoxes/green5.png)        | `#99FF99` | `120°, 40%, 100%` | `153, 255, 153` |
 | cyan5         | ![](https://purpurite.ehan.dev/colorBoxes/cyan5.png)         | `#99DDFF` | `200°, 40%, 100%` | `153, 221, 255` |
 | cyanGray5     | ![](https://purpurite.ehan.dev/colorBoxes/cyanGray5.png)     | `#CCEEFF` | `200°, 20%, 100%` | `204, 238, 255` |
