@@ -28,7 +28,7 @@ The `main palette` lists the main colors, it has very limited colors. The `speci
 
 | Label         | 🎨                                                           | Hex       | HSB               | RGB             |
 | ------------- | ------------------------------------------------------------ | --------- | ----------------- | --------------- |
-| purple5       | ![](https://purpurite.ehan.dev/colorBoxes/purple5.png)       | `#BB99FF` | `240°, 40%, 100%` | `153, 153, 255` |
+| purple5       | NEEDS UPDATE       | `#AA99FF` | `Yo no hablo HSB` | `Ich kann nicht RGB sprechen` |
 | teal5         | ![](https://purpurite.ehan.dev/colorBoxes/teal5.png)         | `#99FFDD` | `160°, 40%, 100%` | `153, 255, 221` |
 | blue1         | ![](https://purpurite.ehan.dev/colorBoxes/blue1.png)         | `#1F2533` | `220°, 40%, 20%`  | `31, 37, 51`    |
 | blue2         | ![](https://purpurite.ehan.dev/colorBoxes/blue2.png)         | `#3D4B66` | `220°, 40%, 40%`  | `61, 75, 102`   |
